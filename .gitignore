@@ -1,1 +1,9 @@
 """
+# Otros archivos y carpetas
+.settings /
+
+# Ejecutables
+* .swf
+* .air
+* .ipa
+* .apk
